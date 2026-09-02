@@ -31,9 +31,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="postgresql
   logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="[https://skillicons.dev/icons?i=css](https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png)" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="[https://skillicons.dev/icons?i=html](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_m1W7hp18X4HwRXbbE_c9ljimHFKIYxQRHcbmYLlklQ&s=10)" height="40" alt="excel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
