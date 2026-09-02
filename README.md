@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" height="40" alt="jpostgresql
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="postgresql
   logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
