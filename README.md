@@ -1,42 +1,56 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Olá, eu sou o Gabriel Vieira! 👋</h1>
 
-###
+<p align="center">
+  <b>Graduado em Análise e Desenvolvimento de Sistemas (ADS)</b> | <b>Estudante de Ciência de Dados</b> <br>
+  Entusiasta de Análise de Dados, Ciência de Dados e Business Intelligence.
+</p>
 
-<p align="left">- Student Data Science <br>- Data Analytics</p>
+---
 
-###
+<h2>📌 Sobre Mim</h2>
 
-<h2 align="left">Social Media</h2>
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNASP-SP.
+- 🎯 Atualmente me aprofundando em **Power BI, SQL e Python para Análise de Dados**.
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-vieira-469410244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Ys4ZtNfS0iuP%2Fn8P%2BP4Tg%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gabrielvie1ra_/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="postgresql
-  logo"  />
-  <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="40" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_m1W7hp18X4HwRXbbE_c9ljimHFKIYxQRHcbmYLlklQ&s=10" height="40" alt="excel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres" alt="Linguagens e Bancos de Dados" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </div>
 
-###
+---
 
+<h2>📊 Projetos em Destaque</h2>
+
+<ul>
+  <li>
+    💳 <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7478698709732712449/">Análise de Inadimplência (Fintech)</a></b> 
+    <br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  </li>
+  <br>
+  <li>
+    🎬 <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7472877444371513344/">Netflix Data Analysis Project</a></b> 
+    <br>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  </li>
+</ul>
+---
+
+<h2>Mídias Sociais</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-vieira-469410244" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://www.instagram.com/gabrielvie1ra_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram Logo" />
+  </a>
+</div>
