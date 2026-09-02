@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Student @unasp<br>- future data analytics</p>
+<p align="left">- Student Data Science <br>- Data Analytics</p>
 
 ###
 
