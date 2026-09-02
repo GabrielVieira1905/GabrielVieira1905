@@ -5,14 +5,16 @@
   Entusiasta de Análise de Dados, Ciência de Dados e Business Intelligence.
 </p>
 
---
+
+
 
 <h2>📌 Sobre Mim</h2>
 
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNASP-SP.
 - 🎯 Atualmente me aprofundando em **Power BI, SQL e Python para Análise de Dados**.
 
---
+
+
 
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 
@@ -23,7 +25,8 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </div>
 
---
+
+
 
 <h2>📊 Projetos em Destaque</h2>
 
@@ -43,7 +46,8 @@
   </li>
 </ul>
 
---
+
+
 <h2>Mídias Sociais</h2>
 
 <div align="left">
